@@ -1,3 +1,4 @@
+# EX NO :02
 prompting tools across ChatGPT, Claude, Bard, Cohere Command, and Meta:
 
 # What you’ll measure (core)
