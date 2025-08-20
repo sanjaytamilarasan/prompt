@@ -1,4 +1,4 @@
-Awesome project. Here’s a lean, ready-to-run framework you can use to evaluate prompting tools across ChatGPT, Claude, Bard, Cohere Command, and Meta:
+prompting tools across ChatGPT, Claude, Bard, Cohere Command, and Meta:
 
 # What you’ll measure (core)
 
